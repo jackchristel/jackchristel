@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Solidjs, Astro, Typescript, C#, Java**
 
-- ⚡ Fun fact **I'm pretty chill and relaxed**
-
 <p align="left">
 </p>
 
